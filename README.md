@@ -12,6 +12,6 @@
 
 # ScreenShots
 
-![Android](https://github.com/santosh-36/Flutter_Chat_App/edit/master/android.png)
+![Android](https://github.com/santosh-36/Flutter_Chat_App/blob/master/android.png)
 
-![IOS](https://github.com/santosh-36/Flutter_Chat_App/edit/master/ios.png)
+![IOS](https://github.com/santosh-36/Flutter_Chat_App/blob/master/ios.png)
