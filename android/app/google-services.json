@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "699876456061",
+    "firebase_url": "https://fir-learn-ios.firebaseio.com",
+    "project_id": "fir-learn-ios",
+    "storage_bucket": "fir-learn-ios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699876456061:android:b6c36b618cf605e8",
+        "android_client_info": {
+          "package_name": "com.santosh.firebasenotificationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699876456061-kgnsh7daf3eli5jdh0p9afo6ekof897n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.santosh.firebasenotificationtest",
+            "certificate_hash": "320fc12f9e75ee5aa5a1ddb64ffc4c31f81bd3e4"
+          }
+        },
+        {
+          "client_id": "699876456061-0tgku04h8144u13ald4l5ho5dkakcj95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJX1AExB7OrcQBmdDDSDXv8rnKIKe7b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699876456061-0tgku04h8144u13ald4l5ho5dkakcj95.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699876456061-rskf93214c1vk59mhnvm45ojicbu22ko.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.santosh.FirebaseLearn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699876456061:android:a5dc9a4074f6ed4291a314",
+        "android_client_info": {
+          "package_name": "com.santosh.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699876456061-0tgku04h8144u13ald4l5ho5dkakcj95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJX1AExB7OrcQBmdDDSDXv8rnKIKe7b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699876456061-0tgku04h8144u13ald4l5ho5dkakcj95.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699876456061-rskf93214c1vk59mhnvm45ojicbu22ko.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Santosh.FirebaseLearn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
